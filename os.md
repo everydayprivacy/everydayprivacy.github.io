@@ -12,7 +12,7 @@ Comments
 
 In the same spirit of suggesting something for those with no background in the various Linux desktop environments, we'll simplify that as well by saying this:
 
-Use the [Xfce Desktop Environment](https://en.wikipedia.org/wiki/Xfce).
+Use the [KDE Desktop Environment](https://en.wikipedia.org/wiki/KDE). 
 
 ### Procedure
 

@@ -48,9 +48,9 @@ These sites will tell you how unique you are on the public internet:
 
 * [https://privacy.net/analyzer/](https://privacy.net/analyzer/)
 
-Use these Firefox settings / add-ons:
+Consider using these Firefox settings / add-ons:
 
-* Set Firefox setting "**privacy.resistFingerprinting**" to true
+* Consider setting Firefox setting "**privacy.resistFingerprinting**" to true
 
     This help hinder fingerprinting
 

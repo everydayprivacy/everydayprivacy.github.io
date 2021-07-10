@@ -16,6 +16,10 @@ The general recommendations are:
 
 * Do not use mobile phone apps that are known to collect your personal information.  See [Applications](applications.md).
 
+* Use [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) as your web browser on your phone.
+
+* Use [Signal](https://www.signal.org) as your messaging app.
+
 ### Location Data
 
 The wireless providers track your location at all times, and sell that data to a variety of third parties.

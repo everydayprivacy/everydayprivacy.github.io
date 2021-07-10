@@ -4,7 +4,7 @@ Do not use the same password on more than one website.
 
 Make your passwords 8 to 10 random characters.
 
-Use [KeepassX](https://www.keepassx.org/) or [KeePassXC](https://keepassxc.org/)
+Use [KeePassXC](https://keepassxc.org/)
 
 Comments
 
