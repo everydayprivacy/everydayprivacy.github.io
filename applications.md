@@ -38,8 +38,3 @@ The "do not use" list:
 
 * Do not use Apps that exchange data via [SMS](https://en.wikipedia.org/wiki/SMS).
 
-### Zoom Video Conferencing
-
-Do not use [Zoom](https://en.wikipedia.org/wiki/Zoom_Video_Communications)
-
-Read any headline if you want to know why.
